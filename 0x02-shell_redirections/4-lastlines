@@ -1,2 +1,2 @@
 #!/bin/bash
-tail etc\passwd
+tail tail -n 10 4-lastlines
